@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="admob_app_id">******</string>
+    <string name="admob_home_banner_unit_id">******</string>
+    <string name="admob_daily_text_interstitial_unit_id">******</string>
+    <string name="admob_weekly_audio_interstitial_unit_id">******</string>
+    <string name="admob_play_audio_interstitial_unid_id">******</string>
+    <string name="admob_download_audio_rewarded_unid_id">******</string>
+    <string name="admob_audio_category_click_interstitial_unid_id">******</string>
+
+</resources>

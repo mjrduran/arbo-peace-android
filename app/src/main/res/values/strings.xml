@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Orações do Chico Xavier</string>
+
+    <string name="menu_home">Para você</string>
+    <string name="menu_discover">Descobrir</string>
+    <string name="menu_mood">Humor</string>
+    <string name="menu_more">Mais</string>
+
+
+    <!-- General -->
+    <string name="generic_save_success">Dados salvos com sucesso!</string>
+    <string name="generic_error_title">Erro inesperado</string>
+    <string name="generic_error_message">Ops, ocorreu um erro inesperado! Tente mais tarde</string>
+    <string name="generic_update">Atualizar</string>
+    <string name="generic_save">Salvar</string>
+    <string name="generic_delete">Remover</string>
+    <string name="generic_ok">OK</string>
+    <string name="generic_validation_error">Erro de validação</string>
+
+    <string name="audio_list_downloading">Baixando…</string>
+    <string name="audio_start_download">Baixar</string>
+    <string name="audio_delete">Apagar</string>
+
+    <string name="audio_delete_success_title">Concluído</string>
+    <string name="audio_delete_success_message">Arquivo apagado com sucesso!</string>
+
+    <string name="audio_delete_confirm_title">Confirmação</string>
+    <string name="audio_delete_confirm_message">Deseja mesmo apagar?</string>
+    <string name="audio_delete_confirm_yes">Sim</string>
+    <string name="audio_delete_confirm_no">Não</string>
+
+    <string name="text_sample">Quando você se observar, à beira do desânimo, acelere o passo para frente, proibindo-se parar.
+Ore, pedindo a Deus mais luz para vencer as sombras.
+Faça algo de bom, além do cansaço em que se veja. Leia uma página edificante, que lhe auxilie o raciocínio na mudança construtiva de idéias.
+Tente contato de pessoas, cuja conversação lhe melhore o clima espiritual.
+Procure um ambiente, no qual lhe seja possível ouvir palavras e instruções que lhe enobreçam os pensamentos.
+Preste um favor, especialmente aquele favor que você esteja adiando.
+Visite um enfermo, buscando reconforto naqueles que atravessam dificuldades maiores que as suas.
+Atenda às tarefas imediatas que esperam por você e que lhe impeçam qualquer demora nas nuvens do desalento.
+Guarde a convicção de que todos estamos caminhando para adiante, através de problemas e lutas, na aquisição de experiência, e de que a vida concorda com as pausas de refazimento das nossas forças, mas não se acomoda com a inércia em momento algum.</string>
+
+    <!-- Home -->
+    <string name="daily_text_section_title">Oração do Dia</string>
+    <string name="weekly_audio_section_title">Mensagem da Semana</string>
+
+    <string name="playback_channel_name">Padrão</string>
+    <string name="playback_channel_description">Notificações de mídia e novidades</string>
+
+    <!-- More -->
+    <string name="daily_notification_title">Lembrete</string>
+    <string name="daily_notification_text_title">Oração do dia</string>
+    <string name="daily_notification_message">Lembrete de oração diária</string>
+    <string name="reminder_title">Lembrete</string>
+    <string name="reminder_message">Lembre-se de orar todos os dias</string>
+    <string name="notification_channel_name">Padrão</string>
+    <string name="notification_channel_description">Notificações do aplicativo</string>
+    <string name="privacy_policy_title">Política de Privacidade</string>
+    <string name="icon_credits">Icons made by Freepik from www.flaticon.com</string>
+    <string name="more_dark_theme">Tema escuro</string>
+
+    <string name="more_item_share">Compartilhar</string>
+
+    <string name="share_app_title">Orações do dia</string>
+    <string name="share_app_text">Recomendo Orações do dia! Baixe aqui: %s</string>
+    <string name="share_app_url">https://bit.ly/2J14q6V</string>
+
+    <string name="text_share_subject">Horóscopo de hoje para %s</string>
+    <string name="text_share_app_link">https://oracoeschico.page.link/Go1D</string>
+    <string name="text_share_water_mark">\n\nOrações do Chico Xavier! Baixe aqui %s</string>
+
+    <string name="audio_download_ad_confirm_title">Download</string>
+    <string name="audio_download_ad_confirm_message">Deseja ver um video para fazer o download?</string>
+    <string name="audio_download_ad_confirm_yes">Sim</string>
+    <string name="audio_download_ad_confirm_no">Não</string>
+
+    <!-- Rate -->
+    <string name="rate_dialog_title_pt">Olá ☺!</string>
+    <string name="rate_dialog_message_pt">Gosta da aplicação? Se importaria de avaliá-la? Fique tranquilo(a), é opcional.</string>
+
+</resources>
+
